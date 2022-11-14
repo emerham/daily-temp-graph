@@ -1,0 +1,46 @@
+@import './base.css';
+
+.Twenty {
+  background: #1a3435;
+  color: white;
+}
+
+.Thirty {
+  background-color: #0d5257;
+}
+
+.Forty {
+  background-color: #00859b;
+}
+
+.Fifty {
+  background-color: #b8dde1;
+}
+
+.Sixty {
+  background-color: #fdd26e;
+}
+
+.Seventy {
+  background-color: #ffb500;
+}
+
+.Eighty {
+  background-color: #f98115;
+}
+
+.Ninety {
+  background-color: #d73f09;
+}
+
+.Hundo {
+  background-color: #c11714;
+}
+
+.Hundoten {
+  background-color: #5e1b7a;
+}
+
+.HundoTwenty {
+  background-color: #800000;
+}
