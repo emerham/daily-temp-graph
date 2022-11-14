@@ -1,5 +1,5 @@
 {
-  "name": "daily-temp-grpah",
+  "name": "daily-temp-graph",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
